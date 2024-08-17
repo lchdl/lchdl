@@ -2,8 +2,6 @@
 
 <img src="https://github.com/lchdl/lchdl/blob/main/huggingface.svg" width="150"><img src="https://github.com/lchdl/lchdl/blob/main/profile.png" width="120">
 
-
-
 #### 💡 About me
 I am currently a PhD candidate 🎓 at Beijing Institute of Technology, where my research focuses on 🧐 using deep learning for medical image analysis 🧠. Besides, I am now working on optimizing ad recommender systems with generative retrieval using LLMs at Tencent.
 
