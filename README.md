@@ -1,17 +1,21 @@
 ## Hi! 👋 I'm Chenghao Liu, and thanks for stopping by ⭐
 
-<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="100">
+<img src="https://github.com/lchdl/lchdl/blob/main/huggingface.svg" width="150"><img src="https://github.com/lchdl/lchdl/blob/main/profile.png" width="120">
+
+
 
 #### 💡 About me
-I am currently a PhD candidate 🎓 at Beijing Institute of Technology, where my research focuses on 🔎 using deep learning for medical image analysis 🧠. Besides, I am now working on optimizing ad recommender systems with generative retrieval using LLMs at Tencent.
+I am currently a PhD candidate 🎓 at Beijing Institute of Technology, where my research focuses on 🧐🔎 using deep learning for medical image analysis 🧠. Besides, I am now working on optimizing ad recommender systems with generative retrieval using LLMs at Tencent.
 
 #### ✨ My interests
 * 💻 Programming some interesting stuff.
 * 🎯 Rigid/soft body simulation using C/C++: XPBD.
 * 🌄 Computer graphics
-  * 🌄 Traditional: ray/path tracing, GI, PBR (physically based rendering)
+  * 🌄 Traditional: ray/path tracing, GI, PBR (physically based rendering).
   * 🌄 Modern: NeRF, DDPM.
+  * 🌄 Parallel computing with CUDA C++ & NVRTC.
 * 🎥 3D modeling: 3Ds MAX, Blender.
+* 💖 I’m also fascinated by pixelated art styles and old-school graphics.
 
 #### 📦 Current side projects
 * 🔨 [**SGL** (Software Graphics Library)](https://github.com/lchdl/sgl): Implementing my own OpenGL on the CPU, with
@@ -55,6 +59,8 @@ I am currently a PhD candidate 🎓 at Beijing Institute of Technology, where my
 <!--
 References:
 https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+https://www.webfx.com/tools/emoji-cheat-sheet/
 
 **lchdl/lchdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
