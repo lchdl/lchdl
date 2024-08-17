@@ -5,7 +5,7 @@
 
 
 #### 💡 About me
-I am currently a PhD candidate 🎓 at Beijing Institute of Technology, where my research focuses on 🧐🔎 using deep learning for medical image analysis 🧠. Besides, I am now working on optimizing ad recommender systems with generative retrieval using LLMs at Tencent.
+I am currently a PhD candidate 🎓 at Beijing Institute of Technology, where my research focuses on 🧐 using deep learning for medical image analysis 🧠. Besides, I am now working on optimizing ad recommender systems with generative retrieval using LLMs at Tencent.
 
 #### ✨ My interests
 * 💻 Programming some interesting stuff.
