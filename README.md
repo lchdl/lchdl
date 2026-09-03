@@ -5,9 +5,9 @@
 I received my Ph.D. degree in Electronic Science and Technology from Beijing Institute of Technology in 2025 🎓.
 My academic research centered on **3D medical image analysis**, focusing on unsupervised/semi‑supervised brain MRI lesion segmentation with deep learning.
 
-After graduation, I worked on large‑model‑driven search & recommendation systems. My industrial experience covers multi‑modal large language model (VLM) upgrade for search recall, e‑commerce live‑video recommendation, and LLM‑based generative retrieval for advertising systems.
+After graduation, I worked on large‑model‑driven search & recommendation systems. My industrial experience covers **multi‑modal large language models (VLMs)** upgrade for large-scale search engines, **e‑commerce live‑video recommendation**, and **LLM‑based generative retrieval** for advertising systems.
 
-I am also passionate about low‑level system & graphics programming 🛠️. I build personal open‑source projects including CPU/GPU renderers and lightweight deep‑learning frameworks implemented in C++ / CUDA.
+I am also passionate about **low‑level system & graphics programming** 🛠️. I build personal open‑source projects including **CPU/GPU renderers** and **lightweight deep‑learning frameworks implemented in C++ / CUDA**.
 
 - 📫 Reach me: chenghao1652@126.com
 
